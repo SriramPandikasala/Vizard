@@ -1,0 +1,23 @@
+.rt-thead.-header{
+    background-color: black;
+    color:white;
+    text-align:center
+}
+.rt-tr-group{
+    text-align: center
+}
+.rt-tr-group:nth-child(even) {background: rgba(20, 204, 218, 0.5)}
+.rt-tr-group:nth-child(odd) {background: rgb(255, 255, 255,0.5)}
+
+.ReactTable{
+    font-size:10px;
+
+}
+
+.pagination-bottom{
+    background-color: white
+}
+
+button.pagination-bottom.-pagination.-previous{
+    background-color: rgb(57, 125, 214);
+}

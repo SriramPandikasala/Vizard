@@ -1,0 +1,42 @@
+.cal{
+    /* width:35%;
+    display: inline-block;
+
+    position:fixed;
+    top:25px;
+    left:25px; */
+    margin:25px 0px 10px 25px;
+    border-right: 2px solid black;
+    
+    /* display:inline-block;
+    border:2px solid yellow;
+    width:500px; */
+
+  }
+ .react-calendar{
+     font-size:9px;
+     /* width:60%; */
+     border-radius: 15px;
+     border:3px ridge black;
+     box-shadow:5px 5px 20px 2px gray;
+ }
+
+.react-calendar__navigation{
+    font-size:10px
+}
+.react-calendar__tile.react-calendar__month-view__days__day{
+    border:0.5px solid black;
+    border-top: 1px solid black;
+}
+
+.react-calendar__month-view__weekdays__weekday{
+    border:0.5px solid black;
+}
+
+.react-calendar__month-view {
+    border-radius: 0px 0px 15px 15px
+}
+
+
+
+

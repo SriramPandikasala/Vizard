@@ -1,0 +1,11 @@
+.first-container{
+  border-bottom:2px solid black;
+}
+
+.second-container{
+  margin-top: 10px;
+}
+
+.App{
+  background-color:gray
+}

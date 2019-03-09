@@ -1,0 +1,26 @@
+.navbar{
+    height:45px;
+    border-radius: 5px;
+    
+}
+
+/* .navbar-brand{
+    position:fixed;
+} */
+
+.logo{
+
+    display:inline-block;
+    padding-right:10px;
+    border-right: 3px solid white
+    
+
+}
+.appName{
+    padding-left: 30px;
+    display: inline-block;
+    margin-left:5px
+
+}
+
+
